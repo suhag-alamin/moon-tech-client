@@ -1,3 +1,1 @@
-## server
-
-server link : https://github.com/mir-hussain/moon-tech-server
+## Simple project with useReducer and context api.
